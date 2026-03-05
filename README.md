@@ -5,4 +5,4 @@ This project is an Excel-based habit tracking and analytics dashboard designed t
 It transforms simple daily habit inputs into structured data insights using formulas, pivot tables, and dashboard visualizations.
 
 ## 📌 Project Status
-- Not yet started 🔴
+- In-progress 🟠
