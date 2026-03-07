@@ -6,5 +6,7 @@ This project is an Excel-based habit tracking and analytics dashboard designed t
 
 It transforms simple daily habit inputs into structured data insights using formulas, pivot tables, and dashboard visualizations.
 
+**Note:** The excel file is free to download for users who are interested in tracking their habits! Feel free to download!
+
 ## 📌 Project Status
 - In-progress 🟠
